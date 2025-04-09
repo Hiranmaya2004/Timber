@@ -30,12 +30,14 @@ A simple Timber-style 2D game built using **SFML** (Simple and Fast Multimedia L
 ```bash
 git clone https://github.com/Hiranmaya2004/Timber.git
 cd Timber
+```
 Build and Run (on Windows with g++)
-
+```bash
 g++ main.cpp -o Timber -lsfml-graphics -lsfml-window -lsfml-system
 ./Timber
-Make sure SFML libraries are linked correctly based on your system.
 ```
+Make sure SFML libraries are linked correctly based on your system.
+
 📁 Project Structure
 
 Timber/
