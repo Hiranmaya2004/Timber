@@ -35,7 +35,7 @@ Build and Run (on Windows with g++)
 g++ main.cpp -o Timber -lsfml-graphics -lsfml-window -lsfml-system
 ./Timber
 Make sure SFML libraries are linked correctly based on your system.
-
+```
 📁 Project Structure
 
 Timber/
