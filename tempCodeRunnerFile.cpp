@@ -1,0 +1,1 @@
+#define SFML_STATIC
